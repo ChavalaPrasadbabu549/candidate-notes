@@ -25,3 +25,8 @@ dist-ssr
 backend/.env
 frontend/.env
 .env
+
+Environments
+MONGO_URL = mongodb+srv://prasadchavala1999:yR8xrBe2iMXXtsWy@cluster0.ucubc.mongodb.net/candidateNotes?retryWrites=true&w=majority&appName=candidateNotes
+JWT_SECRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIzNDU2Nzg5LCJuYW1lIjoiSm9zZXBoIn0.OpOSSw7e485LOP5PrzScxHb7SR6sAOMRckfFwi4rp7o
+PORT=5002
